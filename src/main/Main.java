@@ -69,3 +69,4 @@ public class Main {
         System.out.println("Congratulations " + name + ", you are " + age + " years old. Have a nice day!"); // Do not change this text
     }
 }
+
